@@ -1,6 +1,6 @@
 # OSINT_TIPS
 Various OSINT tips
-![AI](855003440_315364.jpg)
+
 # Getting Started.
 
 ### TIP:-1- Directory of Malicious IPs:
